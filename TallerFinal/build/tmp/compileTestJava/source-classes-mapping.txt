@@ -1,0 +1,44 @@
+factoryDevice/AndroidCloud.java
+ factoryDevice.AndroidCloud
+activities/MainScreen.java
+ activities.MainScreen
+localReport/RunnerGradle.java
+ localReport.RunnerGradle
+activities/RecordatorioFormScreen.java
+ activities.RecordatorioFormScreen
+factoryDevice/FactoryDevice.java
+ factoryDevice.FactoryDevice
+localReport/SuiteReport.java
+ localReport.SuiteReport
+factoryDevice/IDevice.java
+ factoryDevice.IDevice
+cleanTest/WhenDoCleanTest.java
+ cleanTest.WhenDoCleanTest
+factoryDevice/Android.java
+ factoryDevice.Android
+session/Session.java
+ session.Session
+controlAppium/RadioButton.java
+ controlAppium.RadioButton
+runner/Runner.java
+ runner.Runner
+factoryDevice/Ios.java
+ factoryDevice.Ios
+factoryDevice/WindowPhone.java
+ factoryDevice.WindowPhone
+localReport/LocalReportConsole.java
+ localReport.LocalReportConsole
+controlAppium/Control.java
+ controlAppium.Control
+controlAppium/Label.java
+ controlAppium.Label
+controlAppium/Button.java
+ controlAppium.Button
+controlAppium/CheckBox.java
+ controlAppium.CheckBox
+localReport/ReportJunit.java
+ localReport.ReportJunit
+controlAppium/TextBox.java
+ controlAppium.TextBox
+runner/WhenDoStep.java
+ runner.WhenDoStep
